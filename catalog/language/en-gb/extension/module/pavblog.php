@@ -38,7 +38,7 @@ $_['text_leave_a_comment'] = 'Leave A Comment';
 
   /*blogcategory module*/
   // Heading 
-$_['blog_category_heading_title'] = 'Blog Category';
+$_['blog_category_heading_title'] = 'Danh Mục Tin Tức';
 
 // Text
 $_['text_latest']  = 'Latest'; 
