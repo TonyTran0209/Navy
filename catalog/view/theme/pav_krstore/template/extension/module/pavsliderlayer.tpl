@@ -9,7 +9,7 @@
  
 ?>
 <?php if( $class =="boxed") { ?>
-<div class="XXX layerslider-wrapper" style="max-width:<?php echo $sliderParams['width'];?>px;">
+<div class="layerslider-wrapper" style="max-width:<?php echo $sliderParams['width'];?>px;">
 <?php } ?>
 			<div class="bannercontainer banner-<?php echo trim($class);?>" style="padding: <?php echo $sliderParams['padding'];?>;margin: <?php echo $sliderParams['margin'];?>;">
 					<div id="sliderlayer<?php echo $randID; ?>" class="rev_slider <?php echo trim($class);?>banner" style="width:100%;height:<?php echo $sliderParams['height'];?>px; " >

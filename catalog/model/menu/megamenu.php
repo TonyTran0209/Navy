@@ -107,7 +107,7 @@ class ModelMenuMegamenu extends Model {
 		if( $this->hasChild($parent) ){
 			$data = $this->getNodes( $parent );
 			// render menu at level 0
-			$output = '<ul class="nav navbar-nav megamenu XXX">';
+			$output = '<ul class="nav navbar-nav megamenu">';
 			foreach( $data as $menu ){
  
 				
