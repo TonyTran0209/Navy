@@ -15,7 +15,7 @@ $_['text_sidebar_right'] = 'Sidebar Right';
 
 $_['text_about_us'] = 'About Us';
 
-$_['quick_view']      = 'Quick View';
+$_['quick_view']      = 'Xem Nhanh';
 $_['txt_product_zoom']      = 'Pproduct Zoom';
 $_['text_tax']      = 'Ex Tax:';
 $_['text_item']      = 'item';
