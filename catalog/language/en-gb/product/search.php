@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
+$_['heading_title']     = 'Tìm Kiếm';
 $_['heading_tag']		= 'Tag - ';
 
 // Text
@@ -8,7 +8,7 @@ $_['text_search']       = 'Products meeting the search criteria';
 $_['text_keyword']      = 'Keywords';
 $_['text_category']     = 'All Categories';
 $_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
+$_['text_empty']        = 'Không tìm thấy kết quả tìm kiếm phù hợp';
 $_['text_quantity']     = 'Qty:';
 $_['text_manufacturer'] = 'Brand:';
 $_['text_model']        = 'Product Code:';
